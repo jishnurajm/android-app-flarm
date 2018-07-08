@@ -38,6 +38,8 @@ This file contains configuration details such as keys and identifiers, for the s
 ## Screenshots
 https://github.com/jishnurajm/android-app-flarm/blob/master/app/src/Screenshot_2018-07-05-21-01-28_pixel_really_blue_portrait.png
 
+https://github.com/jishnurajm/android-app-flarm/blob/master/app/src/photo_2018-07-08_13-22-45.jpg
+
 ## Links
 
 [Flarum Home page](http://flarum.org/)
