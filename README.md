@@ -36,7 +36,7 @@ This file contains configuration details such as keys and identifiers, for the s
 
 
 ## Screenshots
-
+![alt text](https://raw.githubusercontent.com/jishnurajm/android-app-flarm/blob/master/app/src/Screenshot_2018-07-05-21-01-28_pixel_really_blue_portrait.png
 
 ## Links
 
