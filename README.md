@@ -31,14 +31,11 @@ This file contains configuration details such as keys and identifiers, for the s
 4. From General Settings section download **google-services.json** file.
 
 ## Known Issues
-* Facebook login inside app is not working
-* ~~File Upload plugin not working~~ - Fixed with Advanced webview
+
 
 
 ## Screenshots
 
-![Home](https://raw.githubusercontent.com/SurfEdge/flarum-mobile-android/master/screenshots/scr_home.png)
-![Inside](https://raw.githubusercontent.com/SurfEdge/flarum-mobile-android/master/screenshots/scr_inside.png)
 
 ## Links
 
