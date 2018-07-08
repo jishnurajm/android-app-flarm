@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "343381457326",
+    "firebase_url": "https://flarum-form.firebaseio.com",
+    "project_id": "flarum-form",
+    "storage_bucket": "flarum-form.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:343381457326:android:6fff0c527e4c5722",
+        "android_client_info": {
+          "package_name": "com.jrm.form"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "343381457326-30sr9qpmn543h1hoa3pve3h2qnvh93og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaJjQ7OjZHM4vk3ZndhPJP-n8DWIWPXGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
