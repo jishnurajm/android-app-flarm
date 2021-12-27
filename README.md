@@ -1,3 +1,5 @@
+Note : This project nolonger maintained
+
 # Make an Android app for your Flarum Forum
 A WebView based Android application which will embed your flarum forum inside an application.This application is based on https://github.com/SurfEdge/ 's code.
 
